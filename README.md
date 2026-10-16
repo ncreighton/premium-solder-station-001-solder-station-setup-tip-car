@@ -1,0 +1,2 @@
+# premium-solder-station-001-solder-station-setup-tip-car
+Tired of replacing burnt soldering tips every month and hunting for your flux in a pile of wires? Your station setup and tip care are costing you time and money.  This Notion template transforms your soldering station from chaotic to efficient. It centralizes tip usage logs, maintenance schedules, and inventory tracking so you can extend tip life,
